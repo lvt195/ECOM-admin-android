@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802845052900",
+    "project_id": "ecom-android-7727b",
+    "storage_bucket": "ecom-android-7727b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802845052900:android:b5baf2419ea4d6f0a281f1",
+        "android_client_info": {
+          "package_name": "com.example.ecomadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNtvM86c7PYIhaWe1hoqCya0DALHS8pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802845052900:android:382aff3bc203dd7ba281f1",
+        "android_client_info": {
+          "package_name": "com.example.ecomstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNtvM86c7PYIhaWe1hoqCya0DALHS8pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
